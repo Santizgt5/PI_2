@@ -1,0 +1,9 @@
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\bin\Debug\Taller2PI.exe.config
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\bin\Debug\Taller2PI.exe
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\bin\Debug\Taller2PI.pdb
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\obj\Debug\Taller2PI.csprojAssemblyReference.cache
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\obj\Debug\Taller2PI.Properties.Resources.resources
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\obj\Debug\Taller2PI.csproj.GenerateResource.cache
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\obj\Debug\Taller2PI.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\obj\Debug\Taller2PI.exe
+C:\Users\Casa\source\repos\Taller2PI\Taller2PI\obj\Debug\Taller2PI.pdb
