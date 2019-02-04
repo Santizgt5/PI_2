@@ -1,64 +1,63 @@
-ZONA,ZONA -DIM,DIRECCION,CIUDAD,TELEFONO,LOCATION
-1,ZONA  01,Cl 25 Cra 1 barrio El Dorado,Tunja,7424238,"(5.5362302, -73.3558807)"
-1,DIM 06,CR 9a No 4  -46 Batallon Sucre,Chiquinquira,7262126,"(5.6110783, -73.8240518)"
-1,DIM 07,Cl 25 Cr 1 Barrio el Dorado,Tunja,7400242,"(5.5362302, -73.3558807)"
-1,DIM 08,Batallon Tarqui,Sogamoso,7702390,"(5.676363, -72.9586709)"
-3,ZONA 03,Cr 80 No 4  -26 Tercera Brigada,Cali,3240625,"(3.3859765, -76.5456311)"
-3,DIM 16,Cr 80 No 4  -26 Tercera Brigada,Cali,3240658,"(3.3859765, -76.5456311)"
-3,DIM 17,Cr 80 No 4  -26 Tercera Brigada,Cali,3240658,"(3.3859765, -76.5456311)"
-3,DIM 18,Via pradera Batalon Codazzi,Palmira,2703537 ,"(3.3859765, -76.5456311)"
-3,DIM 19,Av. LA Habana Batallon Palacé,Buga,2280220,"(3.8920862, -76.2892404)"
-3,DIM 20,Av Los Cuarteles BILOP,Popayan,8201378,"(3.8920862, -76.2892404)"
-3,DIM 21,Cr 6 No 17  -51,Ipiales,7732530,"(0.8278746, -77.6420056)"
-3,DIM 23,Av Colombia Cll 72 Boyaca,Pasto,7208084,"(1.207365, -77.271705)"
-3,DIM 58,Cl 7 A No 3 A   -74,Buenaventura,2424321,"(3.8834736, -77.0513664)"
-4,ZONA 04,Cr 77 C No 51  -158 Barrio Los colores,Medellin, 6050013,"(6.2638586, -75.5930443)"
-4,DIM 25,Decimaseptima Brigada,Carepa, 6050013,"(7.7762132, -76.6540394)"
-4,DIM 26,Cl 66 D No 39 A   -66 Batallon Giradot,Medellin, 6050013,"(6.2565399, -75.5493824)"
-4,DIM 27,Calle 45 NO 18  -85 Batallon de Artilleria No 04,Medellin, 6050013,"(6.2339216, -75.5469341)"
-4,DIM 28,Batallon de Servicio No 14 Cacique Pipaton p. Pal,Puerto berrrio,8335299,"(6.4883962, -74.4016635)"
-4,DIM 29,Batallon Manosalva Florez,Quibdo,6050013,"(5.695633, -76.649812)"
-4,DIM 48,Cr 77 C No 51  -158 Barrio Los colores,Medellin,6050013,"(6.2638586, -75.5930443)"
-5,ZONA 05,Carrera 33 Calle 18 barrio San Alonso,Bucaramanga,6359992,"(7.1037464, -73.1066192)"
-5,DIM 32,Carrera 33 Calle 18 barrio San Alonso,Bucaramanga,6359992,"(7.1037464, -73.1066192)"
-5,DIM 33,Carretera Central via Bogota Barrio la Feria,Socorro,7272563,"(6.468665, -73.264041)"
-5,DIM 34,Diagonal 52 entrada pueblo nuevo,Barrancabermeja,6223347,"(7.0621169, -73.8484773)"
-5,DIM 35,Avenida el portico via a los cuarteles,Cucuta,5831359,"(7.8807741, -72.5016439)"
-5,DIM 36,Avenida Santander Batallon Garcia Rovira,Pamplona, 5682642,"(7.367732, -72.654539)"
-5,DIM 37,Kilometro 1 via a cucuta,Ocaña,5696427,"(7.9836201, -72.4434698)"
-5,DIM 53,Decimaoctava Brigada,Arauca,8857088,"(7.076172, -70.710457)"
-6,ZONA 06,Cra 8 Calle 12 Barrio Ancon Antiguas Instalaciones de la Sexta brigada,Ibague,2722083 2624470 ,"(4.4455887, -75.1439732)"
-6,DIM 38,Cra 8 Calle 12 Barrio Ancon Antiguas Instalaciones de la Sexta brigada,Ibague,2722083 2624470 ,"(4.4455887, -75.1439732)"
-6,DIM 40,Instalaiones Batallon Patriotas,Honda,2515215,"(4.59282, -74.111281)"
-6,DIM 41,Cra 2 No 21 A   -02 Barrio Salsipuedes,Girardot,8335733,"(4.3045959, -74.8031414)"
-6,DIM 57,Instalaciones Batallon Caicedo,Chaparral,2467754,"(3.7235639, -75.4901295)"
-7,ZONA 07,K 1 via puerto López Séptima Brigada,Villavicencio,6603541  6674990,"(4.108864, -73.611604)"
-7,DIM 05,K 1 via puerto López Séptima Brigada,Villavicencio,6674317,"(4.108864, -73.611604)"
-7,DIM 09,Cl 6 cra 18 grupo guias,Yopal,6321838,"(5.3501285, -72.4028582)"
-7,DIM 54,Kilometro 1 via Fuente de oro Batallon Vargas,Granada,6500268,"(3.1826233, -73.5900209)"
-8,ZONA 08,Av. Bolivar No 25  -00,Armenia,7495818,"(4.538932, -75.6665206)"
-8,DIM 22,Av sur calle 52 parte posterior Batallon San Mateo,Pereira,3124404 3124366,"(4.8040657, -75.6945191)"
-8,DIM 30,KM 2 via la Aeropuerto Barrio santa Ana,Cartago,2141090,"(4.7497619, -75.913601)"
-8,DIM 31,Av. Santander Via la ENEA,Manizales,8873918,"(5.067172, -75.513265)"
-8,DIM 39,Av. Bolivar No 25  -00,Armenia,7496201,"(4.5553293, -75.6574464)"
-9,ZONA 09,cr 16 No 21 -300 Barrio La Libertad,Neiva, 8753133  8750355,"(2.9388684, -75.2819194)"
-9,DIM 42,cr 16 No 21 -300 Barrio La Libertad,Neiva,8755590,"(2.9388684, -75.2819194)"
-9,DIM 43,Calle 16 Carrera 14 Esquina Barrio centro,Florencia,4354205,"(1.6183463, -75.6123305)"
-9,DIM 56,KM 5 via San Agustin No 2  -50,Pitalito,8360340,"(1.847155, -76.051)"
-9,DIM 62,Diagonal a Brigada de Selva 27,Mocoa,4200141,"(1.15234, -76.651055)"
-11,ZONA 11,Avenida Sierra Chiquita Br Santander Instalaciones Brigada 11,Monteria,7837677  -7838081,"(8.750983, -75.8785348)"
-11,DIM 11,Barrio las Delicias Cra 9 No 33A -241,Sincelejo,2882244,"(9.71663, -74.49993)"
-11,DIM 13,Avenida Sierra Chiquita Br Santander Instalaciones Brigada 11,Monteria,7837477,"(8.750983, -75.8785348)"
-11,DIM 61,Km 8 via Medellin instalaciones Batallon de infanteria No 31 Rifles,Caucasia,8308994,"(7.979698, -75.1985629)"
-13,ZONA 13,Av. Americas No 58  -38,Bogota,4461808,"(4.6285152, -74.1154636)"
-13,DIM 46,Calle 3A No 6  -90 ,Cajica,8424491,"(4.917531, -74.024773)"
-13,DIM 47,Kr 5B Tres Esquinas,Facatativa,8833991,"(4.809984, -74.354009)"
-13,DIM 51,Av. Americas No 58  -38,Bogota,4461808,"(4.6285152, -74.1154636)"
-13,DIM 52,Escuela Artilleria,Bogota,7390632 ,"(4.5494637, -74.1223714)"
-13,DIM 55,CC Centro Fusa Local 117,Fusagasuga,8671960,"(4.345152, -74.361823)"
-13,DIM 59,Calle 19 No 5  -25,Soacha,7810524,"(4.571524, -74.236444)"
-15,ZONA 15,Cra 11 B No 104 A  -64,Bogota,2159379,"(4.7109886, -74.072092)"
-15,DIM 01,Cra 11 B No 104 A  -64,Bogota,2159561,"(4.7109886, -74.072092)"
-15,DIM 02,Calle 19 sur No 6  -40 Batallon de Mantenimiento,Bogota,3729864,"(4.7109886, -74.072092)"
-15,DIM 03,Calle 33 sur No 79  -80 Kennedy,Bogota,2732701,"(4.7109886, -74.072092)"
-15,DIM 04,Cra 11 B No 104 A  -64,Bogota,6208584,"(4.7109886, -74.072092)"
+﻿1,ZONA  01,Cl 25 Cra 1 barrio El Dorado,Tunja,7424238,5.5362302_-73.3558807
+1,DIM 06,CR 9a No 4  -46 Batallon Sucre,Chiquinquira,7262126,5.6110783_-73.8240518
+1,DIM 07,Cl 25 Cr 1 Barrio el Dorado,Tunja,7400242,5.5362302_-73.3558807
+1,DIM 08,Batallon Tarqui,Sogamoso,7702390,5.676363_-72.95867090
+3,ZONA 03,Cr 80 No 4  -26 Tercera Brigada,Cali,3240625,3.3859765_-76.5456311
+3,DIM 16,Cr 80 No 4  -26 Tercera Brigada,Cali,3240658,3.3859765_-76.5456311
+3,DIM 17,Cr 80 No 4  -26 Tercera Brigada,Cali,3240658,3.3859765_-76.5456311
+3,DIM 18,Via pradera Batalon Codazzi,Palmira,2703537 ,3.3859765_-76.5456311
+3,DIM 19,Av. LA Habana Batallon Palacé,Buga,2280220,3.8920862_-76.2892404
+3,DIM 20,Av Los Cuarteles BILOP,Popayan,8201378,3.8920862_-76.2892404
+3,DIM 21,Cr 6 No 17  -51,Ipiales,7732530,0.8278746_-77.6420056
+3,DIM 23,Av Colombia Cll 72 Boyaca,Pasto,7208084,1.207365_-77.271705
+3,DIM 58,Cl 7 A No 3 A   -74,Buenaventura,2424321,3.8834736_-77.0513664
+4,ZONA 04,Cr 77 C No 51  -158 Barrio Los colores,Medellin, 6050013,6.2638586_-75.5930443
+4,DIM 25,Decimaseptima Brigada,Carepa, 6050013,7.7762132_-76.6540394
+4,DIM 26,Cl 66 D No 39 A   -66 Batallon Giradot,Medellin, 6050013,6.2565399_-75.5493824
+4,DIM 27,Calle 45 NO 18  -85 Batallon de Artilleria No 04,Medellin, 6050013,6.2339216_-75.5469341
+4,DIM 28,Batallon de Servicio No 14 Cacique Pipaton p. Pal,Puerto berrrio,8335299,6.4883962_-74.4016635
+4,DIM 29,Batallon Manosalva Florez,Quibdo,6050013,5.695633_-76.649812
+4,DIM 48,Cr 77 C No 51  -158 Barrio Los colores,Medellin,6050013,6.2638586_-75.5930443
+5,ZONA 05,Carrera 33 Calle 18 barrio San Alonso,Bucaramanga,6359992,7.1037464_-73.1066192
+5,DIM 32,Carrera 33 Calle 18 barrio San Alonso,Bucaramanga,6359992,7.1037464_-73.1066192
+5,DIM 33,Carretera Central via Bogota Barrio la Feria,Socorro,7272563,6.468665_-73.264041
+5,DIM 34,Diagonal 52 entrada pueblo nuevo,Barrancabermeja,6223347,7.0621169_-73.8484773
+5,DIM 35,Avenida el portico via a los cuarteles,Cucuta,5831359,7.8807741_-72.5016439
+5,DIM 36,Avenida Santander Batallon Garcia Rovira,Pamplona, 5682642,7.367732_-72.654539
+5,DIM 37,Kilometro 1 via a cucuta,Ocaña,5696427,7.9836201_-72.4434698
+5,DIM 53,Decimaoctava Brigada,Arauca,8857088,7.076172_-70.710457
+6,ZONA 06,Cra 8 Calle 12 Barrio Ancon Antiguas Instalaciones de la Sexta brigada,Ibague,2722083 2624470 ,4.4455887_-75.1439732
+6,DIM 38,Cra 8 Calle 12 Barrio Ancon Antiguas Instalaciones de la Sexta brigada,Ibague,2722083 2624470 ,4.4455887_-75.1439732
+6,DIM 40,Instalaiones Batallon Patriotas,Honda,2515215,4.59282_-74.111281
+6,DIM 41,Cra 2 No 21 A   -02 Barrio Salsipuedes,Girardot,8335733,4.3045959_-74.8031414
+6,DIM 57,Instalaciones Batallon Caicedo,Chaparral,2467754,3.7235639_-75.4901295
+7,ZONA 07,K 1 via puerto López Séptima Brigada,Villavicencio,6603541  6674990,4.108864_-73.611604
+7,DIM 05,K 1 via puerto López Séptima Brigada,Villavicencio,6674317,4.108864_-73.611604
+7,DIM 09,Cl 6 cra 18 grupo guias,Yopal,6321838,5.3501285_-72.4028582
+7,DIM 54,Kilometro 1 via Fuente de oro Batallon Vargas,Granada,6500268,3.1826233_-73.5900209
+8,ZONA 08,Av. Bolivar No 25  -00,Armenia,7495818,4.538932_-75.6665206
+8,DIM 22,Av sur calle 52 parte posterior Batallon San Mateo,Pereira,3124404 3124366,4.8040657_-75.6945191
+8,DIM 30,KM 2 via la Aeropuerto Barrio santa Ana,Cartago,2141090,4.7497619_-75.913601
+8,DIM 31,Av. Santander Via la ENEA,Manizales,8873918,5.067172_-75.513265
+8,DIM 39,Av. Bolivar No 25  -00,Armenia,7496201,4.5553293_-75.6574464
+9,ZONA 09,cr 16 No 21 -300 Barrio La Libertad,Neiva, 8753133  8750355,2.9388684_-75.2819194
+9,DIM 42,cr 16 No 21 -300 Barrio La Libertad,Neiva,8755590,2.9388684_-75.2819194
+9,DIM 43,Calle 16 Carrera 14 Esquina Barrio centro,Florencia,4354205,1.6183463_-75.6123305
+9,DIM 56,KM 5 via San Agustin No 2  -50,Pitalito,8360340,1.847155_-76.051
+9,DIM 62,Diagonal a Brigada de Selva 27,Mocoa,4200141,1.15234_-76.651055
+11,ZONA 11,Avenida Sierra Chiquita Br Santander Instalaciones Brigada 11,Monteria,7837677  -7838081,8.750983_-75.8785348
+11,DIM 11,Barrio las Delicias Cra 9 No 33A -241,Sincelejo,2882244,9.71663_-74.49993
+11,DIM 13,Avenida Sierra Chiquita Br Santander Instalaciones Brigada 11,Monteria,7837477,8.750983_-75.8785348
+11,DIM 61,Km 8 via Medellin instalaciones Batallon de infanteria No 31 Rifles,Caucasia,8308994,7.979698_-75.1985629
+13,ZONA 13,Av. Americas No 58  -38,Bogota,4461808,4.6285152_-74.1154636
+13,DIM 46,Calle 3A No 6  -90 ,Cajica,8424491,4.917531_-74.024773
+13,DIM 47,Kr 5B Tres Esquinas,Facatativa,8833991,4.809984_-74.354009
+13,DIM 51,Av. Americas No 58  -38,Bogota,4461808,4.6285152_-74.1154636
+13,DIM 52,Escuela Artilleria,Bogota,7390632 ,4.5494637_-74.1223714
+13,DIM 55,CC Centro Fusa Local 117,Fusagasuga,8671960,4.345152_-74.361823
+13,DIM 59,Calle 19 No 5  -25,Soacha,7810524,4.571524_-74.236444
+15,ZONA 15,Cra 11 B No 104 A  -64,Bogota,2159379,4.7109886_-74.072092
+15,DIM 01,Cra 11 B No 104 A  -64,Bogota,2159561,4.7109886_-74.072092
+15,DIM 02,Calle 19 sur No 6  -40 Batallon de Mantenimiento,Bogota,3729864,4.7109886_-74.072092
+15,DIM 03,Calle 33 sur No 79  -80 Kennedy,Bogota,2732701,4.7109886_-74.072092
+15,DIM 04,Cra 11 B No 104 A  -64,Bogota,6208584,4.7109886_-74.072092
