@@ -1,6 +1,6 @@
 ﻿namespace Taller2PI
 {
-    partial class Form1
+    partial class MainWindow
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -53,18 +53,19 @@
             this.gmap.ScaleMode = GMap.NET.WindowsForms.ScaleModes.Integer;
             this.gmap.SelectedAreaFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(65)))), ((int)(((byte)(105)))), ((int)(((byte)(225)))));
             this.gmap.ShowTileGridLines = false;
-            this.gmap.Size = new System.Drawing.Size(541, 277);
+            this.gmap.Size = new System.Drawing.Size(696, 330);
             this.gmap.TabIndex = 0;
             this.gmap.Zoom = 0D;
+            this.gmap.OnMarkerClick += new GMap.NET.WindowsForms.MarkerClick(this.gmap_OnMarkerClick);
             // 
-            // Form1
+            // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(565, 301);
+            this.ClientSize = new System.Drawing.Size(720, 354);
             this.Controls.Add(this.gmap);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "MainWindow";
+            this.Text = "Zonas Militares de Colombia";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 

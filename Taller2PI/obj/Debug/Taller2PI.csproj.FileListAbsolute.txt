@@ -25,10 +25,11 @@ C:\Users\work-\Desktop\PI_2\Taller2PI\bin\Debug\Newtonsoft.Json.xml
 C:\Users\work-\Desktop\PI_2\Taller2PI\bin\Debug\System.Data.SQLite.xml
 C:\Users\work-\Desktop\PI_2\Taller2PI\bin\Debug\System.Data.SQLite.dll.config
 C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.csprojAssemblyReference.cache
-C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.Form1.resources
 C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.Properties.Resources.resources
 C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.csproj.GenerateResource.cache
 C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.csproj.CoreCompileInputs.cache
 C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.csproj.CopyComplete
 C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.exe
 C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.pdb
+C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.MainWindow.resources
+C:\Users\work-\Desktop\PI_2\Taller2PI\obj\Debug\Taller2PI.Informacion.resources

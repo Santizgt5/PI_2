@@ -9,13 +9,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using GMap.NET;
+using GMap.NET.WindowsForms.Markers;
+using GMap.NET.MapProviders;
 
 namespace Taller2PI
 {
-    public partial class Form1 : Form
+    public partial class MainWindow : Form
     {
         public Principal p;
-        public Form1()
+        public MainWindow()
         {
             InitializeComponent();
             p = new Principal();
@@ -23,37 +26,40 @@ namespace Taller2PI
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            gmap.MapProvider = GMap.NET.MapProviders.GoogleMapProvider.Instance;
-            GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
+            gmap.MapProvider = GoogleMapProvider.Instance;
+            GMaps.Instance.Mode = AccessMode.ServerOnly;
             addMarkers();
         }
 
         private void addMarkers()
         {
-            GMap.NET.WindowsForms.GMapOverlay markers = new GMap.NET.WindowsForms.GMapOverlay("markers");
+            GMapOverlay markers = new GMapOverlay("markers");
             ArrayList datos = p.Datos;
             for(int i = 0; i < datos.Count; i++)
             {
                 ZonaMilitar z = (ZonaMilitar)datos[i];
                 string[] loc = z.Location.Split('_');
                 double lat = double.Parse(loc[0]);
-                Console.Write(lat);
                 double lon = double.Parse(loc[1]);
-                Console.Write(lon);
 
-
-                GMap.NET.WindowsForms.GMapMarker marker =
-                new GMap.NET.WindowsForms.Markers.GMarkerGoogle(
-                    new GMap.NET.PointLatLng(lat, lon),
-                    GMap.NET.WindowsForms.Markers.GMarkerGoogleType.blue_pushpin);
+                GMapMarker marker = new GMarkerGoogle(new PointLatLng(lat, lon), GMarkerGoogleType.green_pushpin);
                 markers.Markers.Add(marker);
-                gmap.Overlays.Add(markers);
             }
+                gmap.Overlays.Add(markers);
         }
 
         private void gmap_OnMarkerClick(GMapMarker item, MouseEventArgs e)
         {
-            MessageBox.Show("Clicked");
+            string lat = item.Position.Lat+"";
+            string lon = item.Position.Lng + "";
+            ZonaMilitar zm = BuscarZona(lat, lon);
+            Informacion inf = new Informacion(zm);
+            inf.Show();
+        }
+
+        public ZonaMilitar BuscarZona(string la, string lo)
+        {
+            return p.BuscarZonaMil(la, lo);
         }
     }
 }

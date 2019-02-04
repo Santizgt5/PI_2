@@ -25,7 +25,7 @@ namespace Taller2PI
                 {
                     String[] d = line.Split(',');
                     int z = Int32.Parse(d[0]);
-                    ZonaMilitar zm = new ZonaMilitar(z, d[1], d[2], d[3], d[5]);
+                    ZonaMilitar zm = new ZonaMilitar(z, d[1], d[2], d[3], d[4],d[5]);
                     datos.Add(zm);
                 }
 
@@ -38,6 +38,21 @@ namespace Taller2PI
         }
 
         public ArrayList Datos { get => datos; set => datos = value; }
+
+        public ZonaMilitar BuscarZonaMil(string la, string lo)
+        {
+            ZonaMilitar toSearch = null;
+            for(int i = 0; i < datos.Count; i++)
+            {
+                ZonaMilitar current = (ZonaMilitar)datos[i];
+                string currentLoc = la + "_" + lo;
+                if (current.Location.Equals(currentLoc)){
+                    toSearch = current;
+                }
+            }
+
+            return toSearch;
+        }
 
         /*public static void Main(String[] args)
         {

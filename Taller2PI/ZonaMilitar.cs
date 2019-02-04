@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Taller2PI
 {
-    class ZonaMilitar
+    public class ZonaMilitar
     {
 
         private int zona;
@@ -14,12 +14,14 @@ namespace Taller2PI
         private string direccion;
         private string telefono;
         private string location;
+        private string ciudad;
 
-        public ZonaMilitar(int zona, string zonaDim, string direccion, string telefono, string location)
+        public ZonaMilitar(int zona, string zonaDim, string direccion, string ciudad, string telefono, string location)
         {
             this.Zona = zona;
             this.ZonaDim = zonaDim;
             this.Direccion = direccion;
+            this.Ciudad = ciudad;
             this.Telefono = telefono;
             this.Location = location;
         }
@@ -29,5 +31,6 @@ namespace Taller2PI
         public string Direccion { get => direccion; set => direccion = value; }
         public string Telefono { get => telefono; set => telefono = value; }
         public string Location { get => location; set => location = value; }
+        public string Ciudad { get => ciudad; set => ciudad = value; }
     }
 }
